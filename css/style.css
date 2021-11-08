@@ -1,0 +1,52 @@
+body {
+    width: 20em;
+    height: 17em;
+    padding: 1em;
+    color: #e0e0e0;
+    background-color: #3a3a3a;
+}
+
+.logo {
+    width: 75px;
+    height: 75px;
+}
+
+.section-logo {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 15px;
+    background: #444;
+    box-shadow:  -5px 5px 15px #1e1e1e,
+                5px -5px 15px #3e3e3e;
+}
+
+.section-social-media, footer {
+    display: flex;
+    justify-content: center;
+}
+
+.img-container {
+    justify-self: center;
+    margin: 0.6em;
+    border-radius: 15px;
+    background: #444;
+    box-shadow:  -5px 5px 15px #1e1e1e,
+                5px -5px 15px #3e3e3e;
+}
+
+.fb, .yt, .insta {
+    height: 64px;
+    width: 64px;
+}
+
+.website:hover, .facebook:hover, .youtube:hover, .instagram:hover {
+    background: #444444;
+    box-shadow: inset -10px 10px 30px #2a2a2a,
+                inset 10px -10px 30px #4e4e4e;
+}
+
+footer {
+    margin: 1em;
+    font-size: 0.8em;
+}
