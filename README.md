@@ -2,7 +2,7 @@
 
 Now, you can easily access all online resources from Learn Let's Earn by adding this extension to your browser.
 
-To install this extension from Chrome Web Store ![click here](https://chrome.google.com/webstore/detail/learn-lets-earn/mhpnphdpchgefcefanelgpgkkehlfcao).
+To install this extension from Chrome Web Store [click here](https://chrome.google.com/webstore/detail/learn-lets-earn/mhpnphdpchgefcefanelgpgkkehlfcao).
 
 ## Screenshot
 
